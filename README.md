@@ -50,7 +50,12 @@
   ### 31–45
   ### 46–60
   ### 60+
+  <img width="1918" height="988" alt="image" src="https://github.com/user-attachments/assets/3a4abe90-f3db-4eea-ae81-9386165bde6c" />
+
 ### Validated numeric columns (Price, Profit, Discount)
+<img width="1183" height="721" alt="image" src="https://github.com/user-attachments/assets/de53e65d-a271-4e4c-9513-dbae578670cb" />
+
+
 
 ## 🧱 Data Model
 
@@ -58,17 +63,31 @@
 
   ### 1 Fact Table (Sales)
   ### 5 Dimension Tables
+  <img width="1918" height="988" alt="image" src="https://github.com/user-attachments/assets/8fbe9d8b-bc42-41c0-b717-f50b6971a9b2" />
+
 
 ---
 
 ## 📊 Key DAX Measures
 
 ### 1. Total Sales → Revenue aggregation
+<img width="648" height="32" alt="image" src="https://github.com/user-attachments/assets/e121ae9e-1a0a-4a4f-817c-f875c70c06f2" />
+
 ### 2. Total Profit → Overall earnings
+<img width="342" height="33" alt="image" src="https://github.com/user-attachments/assets/c420dab2-2f31-41ac-8be0-59d355e13a40" />
+
 ### 3. YoY Growth → Profit change over years
+<img width="456" height="121" alt="image" src="https://github.com/user-attachments/assets/742b8846-df21-45b6-82bf-16255a49dcf8" />
+
 ### 4. Profit Margin % → Profitability ratio
+<img width="525" height="32" alt="image" src="https://github.com/user-attachments/assets/330093ee-ed36-46ef-afd6-56d788f5d479" />
+
 ### 5. Average Discount % → Promotion effectiveness
+<img width="395" height="33" alt="image" src="https://github.com/user-attachments/assets/766065bc-7e2b-4d69-84ae-34cde5ec7826" />
+
 ### 6. DateMaster Table → Calendar intelligence
+<img width="607" height="407" alt="image" src="https://github.com/user-attachments/assets/32baa050-6754-4714-8029-be58969c1518" />
+
 
 ---
 
@@ -81,14 +100,13 @@
 #### 📊 Profit Margin: 9.32%
 #### 📉 YoY Growth: -1.6%
 
+<img width="1381" height="737" alt="image" src="https://github.com/user-attachments/assets/9b1b048c-f73c-4d20-82d5-e039b9466dbc" />
+
+
 ## Key Insight:
 
 ### Losses reduced from $188K → $120K (36% improvement)
-
-#### 1. Top Performers:
-
-#### Brand: Ford ($76M)
-#### Model: Explorer
+<img width="1370" height="492" alt="image" src="https://github.com/user-attachments/assets/174d4d23-70cd-4941-a37f-52aeb67e39f5" />
 
 ---
 
@@ -107,6 +125,9 @@
 #### 3. Margin
 #### 4. Units sold
 
+<img width="1392" height="737" alt="image" src="https://github.com/user-attachments/assets/aef912c3-fb81-45b2-92eb-97b4491bc521" />
+
+
 ---
 
 ### 3️⃣ Customer Analytics
@@ -119,7 +140,10 @@
 
 ### Top Customer:
 
-#### Jennifer Jones – $1.28M across 9 purchases
+#### Jennifer Jones – $1.28M across 9 
+
+<img width="1403" height="737" alt="image" src="https://github.com/user-attachments/assets/36b797b5-46bc-44df-bc99-adcfadbb6923" />
+
 
 ---
 
